@@ -30,3 +30,10 @@
 # Women in Tech Workshops
 
 - <https://github.com/WomenInTech-Cluj>
+
+
+# Mozilla's Projects 
+- [Mobile Mobile Products Repo - Issues under Hacktobrfest](https://github.com/mozilla-mobile/android-components/labels/Hacktoberfest)
+    - [Generic Good First Issue (outside Hacktoberfest)](https://github.com/mozilla-mobile/android-components/labels/Hacktoberfest)
+    - [Generic Help Wanted Issues (outside Hacktoberfest)](https://github.com/search?utf8=%E2%9C%93&q=org%3Amozilla-mobile++label%3A%22help+wanted%22&type=Issues&ref=advsearch&l=&l=) 
+- [Mobile Products & Websites Repo - Issues tagged "Good first bug"](https://github.com/search?q=org%3Amozilla+good+first+bug&type=Issues)
